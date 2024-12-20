@@ -16,15 +16,15 @@
     "date-fns": "2.29.1",
     "next": "12.2.4",
     "next-contentlayer": "latest",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
     "@gpkt/tsconfig": "workspace:*",
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/react": "13.3.0",
     "@types/eslint": "8.4.5",
-    "@types/react": "18.0.17",
+    "@types/react": "18.3.18",
     "@types/react-test-renderer": "18.0.0",
     "@vitejs/plugin-react": "2.0.0",
     "autoprefixer": "^10.4.8",
@@ -34,7 +34,7 @@
     "eslint-config-next": "12.2.4",
     "jsdom": "20.0.0",
     "postcss": "^8.4.16",
-    "react-test-renderer": "18.2.0",
+    "react-test-renderer": "18.3.1",
     "rimraf": "^3.0.2",
     "tailwindcss": "^3.1.8",
     "typescript": "4.7.4",
