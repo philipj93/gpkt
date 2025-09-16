@@ -91,7 +91,7 @@
     "@gpkt/tsconfig": "workspace:*",
     "@types/async-retry": "1.4.4",
     "@types/console-clear": "1.1.0",
-    "@types/cross-spawn": "^6.0.2",
+    "@types/cross-spawn": "^6.0.6",
     "@types/ejs": "3.1.1",
     "@types/eslint": "8.4.5",
     "@types/gradient-string": "^1.1.2",
